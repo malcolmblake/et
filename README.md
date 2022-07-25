@@ -8,7 +8,9 @@ To start the project first clone or download locally.
 
 Both `gis-api` and `gis-app` folders require a `.env` file to run.
 
-To run the API:
+---
+
+To run the API :
 
 ```sh
 # From this folder
@@ -18,12 +20,20 @@ npm start
 npm run start
 ```
 
+Read more here: [/gis-api/README.md](/gis-api/README.md)
+
+---
+
 To run the App:
 
 ```sh
 npm run build
 npm run start
 ```
+
+Read more here: [/gis-app/README.md](/gis-app/README.md)
+
+---
 
 Read on if you want more info.
 
